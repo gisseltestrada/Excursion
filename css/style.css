@@ -1,6 +1,6 @@
 
 header {
-    font-family: verdana;
+    font-family: verdana,sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -8,15 +8,22 @@ header {
 }
 body {
     background-color: black;
+    text-align: center;
 }
 
 .download {
     color: aquamarine;
     font-size: 16px;
+    text-decoration-line: underline;
+    
 }
 
 video {
     background-color: black;
+    text-align: center;
+}
+
+img {
     text-align: center;
 }
 
